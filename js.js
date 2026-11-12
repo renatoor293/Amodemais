@@ -84,7 +84,7 @@ function draw() {
   if(frame>190) {
     ctx.fillStyle='#a64d79';
     ctx.font='8px monospace';
-    ctx.fillText('Feito com carinho!',112,35);
+    ctx.fillText('Feito somente para você Pingo!',112,35);
   }
   requestAnimationFrame(draw);
 }
